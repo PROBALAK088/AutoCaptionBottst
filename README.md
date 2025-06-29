@@ -1,4 +1,4 @@
-# Nancy-Queen-Bot
+# Auto-Caption-Bot
 This Is A Bot For Giving Some Extra Features To Your Channel Like - Auto Caption, Sending Stickers After Posting Any Massage.
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
@@ -26,7 +26,7 @@ This Is A Bot For Giving Some Extra Features To Your Channel Like - Auto Caption
 ## Developer
 
 - [Amani](https://t.me/amani_jii) 
-- 
+
 ## Support
 
 Channel :- [SteveBotz](https://t.me/steveBotz)
